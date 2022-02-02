@@ -1,0 +1,17 @@
+C:\Users\alvza\source\repos\Finall\Finall\bin\Debug\net6.0\Finall.exe
+C:\Users\alvza\source\repos\Finall\Finall\bin\Debug\net6.0\Finall.deps.json
+C:\Users\alvza\source\repos\Finall\Finall\bin\Debug\net6.0\Finall.runtimeconfig.json
+C:\Users\alvza\source\repos\Finall\Finall\bin\Debug\net6.0\Finall.dll
+C:\Users\alvza\source\repos\Finall\Finall\bin\Debug\net6.0\ref\Finall.dll
+C:\Users\alvza\source\repos\Finall\Finall\bin\Debug\net6.0\Finall.pdb
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.csproj.AssemblyReference.cache
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.AssemblyInfoInputs.cache
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.AssemblyInfo.cs
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.csproj.CoreCompileInputs.cache
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.dll
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\ref\Finall.dll
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.pdb
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.genruntimeconfig.cache
+C:\Users\alvza\source\repos\Finall\Finall\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alvza\source\repos\Finall\Finall\obj\Debug\net6.0\Finall.csproj.CopyComplete
